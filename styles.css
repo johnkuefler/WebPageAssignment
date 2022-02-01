@@ -1,0 +1,15 @@
+.heading {
+    color: red;
+    background-color: aqua;
+    border: 1px solid black;
+    width:200px;
+  }
+  
+  .shadow-text {
+    text-shadow: 3px 3px 1px black;
+  }
+
+  .box {
+      border: 1px solid black;
+  }
+  
